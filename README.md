@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Use this as a practice repo to simply add and then structure some content to the `index.html` page.
+Use this as a practice repo to simply add content to and then structure the content in the `index.html` page.
 
 - Copy the content from `content.txt` and paste it into the `<body>` section of `index.html`
 - Add structure, markup, the content:
